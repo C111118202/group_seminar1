@@ -1,6 +1,9 @@
 ### PERT圖
 ![PERT](PERT-group.png "PERT")
+### 甘特圖
 
+
+### 關鍵路徑
 
 
 ### 任務模式
